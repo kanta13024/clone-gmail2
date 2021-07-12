@@ -37,6 +37,11 @@
     font-weight: bold;
 }
 
+.emailRow__title {
+    font-size: 13px;
+    flex: 0.3;
+}
+
 .emailRow__description {
     font-weight: 400;
     color: gray;
